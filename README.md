@@ -1,3 +1,3 @@
 # tasks
 
-Build on Veu.js
+Build on Vue.js
